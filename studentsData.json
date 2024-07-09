@@ -1,0 +1,41 @@
+{
+    "Talaricheruvu": [
+        {"sno":"1","studentName": "Alice", "penNumber": "T-001"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"},
+        {"sno":"2", "studentName": "Bob", "penNumber": "T-002"}
+    ],
+    
+    "Boyareddypalli": [
+        {"sno":"1", "studentName": "Charlie", "penNumber": "B-001"},
+        {"sno":"2","studentName": "David", "penNumber": "B-002"}
+    ],
+    "Mantapampalli": [
+        {"studentName": "Eve", "penNumber": "M-001"},
+        {"studentName": "Frank", "penNumber": "M-002"}
+    ],
+    "Tandur": [
+        {"studentName": "Grace", "penNumber": "D-001"},
+        {"studentName": "Hank", "penNumber": "D-002"}
+    ],
+    "Ganesh Pahad": [
+        {"studentName": "Ivy", "penNumber": "G-001"},
+        {"studentName": "Jack", "penNumber": "G-002"}
+    ]
+}
